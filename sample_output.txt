@@ -1,0 +1,43 @@
+
+====================================================
+  F1 LAP TIME ANALYSIS
+====================================================
+Laps analyzed: 8
+
+FASTEST LAP
+  Driver A: 89.70s (lap 6)
+  Driver B: 89.70s (lap 3)
+  -> Both drivers set the same fastest lap
+
+AVERAGE LAP TIME
+  Driver A: 90.01s
+  Driver B: 90.24s
+  Difference: 0.22s
+  -> Faster on average: Driver A
+
+SLOWEST LAP / RANGE
+  Driver A: 90.50s (range 0.80s)
+  Driver B: 91.20s (range 1.50s)
+
+CONSISTENCY (standard deviation, lower = steadier)
+  Driver A: 0.237s
+  Driver B: 0.415s
+  -> More consistent: Driver A
+
+LAP-BY-LAP WINNER
+  Lap 1: Driver B (gap 0.20s)
+  Lap 2: Driver A (gap 0.60s)
+  Lap 3: Driver B (gap 0.80s)
+  Lap 4: Driver A (gap 1.30s)
+  Lap 5: Driver A (gap 0.20s)
+  Lap 6: Driver A (gap 0.40s)
+  Lap 7: Driver A (gap 0.20s)
+  Lap 8: Driver A (gap 0.10s)
+  Laps won: Driver A 6 - 2 Driver B
+
+WARNING: unusually slow for Driver A: lap 3 (90.50s)
+
+WARNING: unusually slow for Driver B: lap 4 (91.20s)
+
+Graph saved to: lap_time_graph.png
+====================================================
